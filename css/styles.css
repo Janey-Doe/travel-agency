@@ -9,15 +9,12 @@ h2{
   font-family: fantasy;
   }
 
-  h2{
-    text-align: center;
-    color: #f7325e;
-    font-family: fantasy;
-  }
-
    .text {
     color:red;
   }
-.text {
-  color:#800000;
+body{
+  background-image: url(https://media.giphy.com/media/xULW8ppNg4FI8VquKA/source.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Times New Roman", Georgia, Serif;
 }
