@@ -1,17 +1,24 @@
-h1{
+h1 {
   text-align: center;
-  color: #f7325e;
-  font-family: fantasy;
-}
-h2{
-  text-align: center;
-  color: #f7325e;
-  font-family: fantasy;
+  color: red;
+  font-size: 4em;
   }
 
-   .text {
-    color:red;
-  }
+  h2 {
+    text-align: left;
+    color: red;
+    font-size: 2em;
+    }
+
+    h3{
+      text-align: left;
+      color: red;
+      font-size: 2em;
+      }
+
+
+
+
 body{
   background-image: url(https://media.giphy.com/media/xULW8ppNg4FI8VquKA/source.gif);
   background-size: cover;
